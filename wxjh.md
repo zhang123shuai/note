@@ -8,7 +8,7 @@ let apiUrl = 'http://192.168.120.156:9006'
 
 2.public文件夹——>inde.html
 
-```
+```html
 <script src="./static/config.js"></script>
 ```
 
